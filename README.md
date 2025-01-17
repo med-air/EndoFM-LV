@@ -245,7 +245,7 @@ Our code is based on [DINO](https://github.com/facebookresearch/dino), [TimeSfor
 
 If you find this code useful, please cite in your research papers.
 ```
-@artical{
+@article{
     wang2025improving,
     title={Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train},
     author={Zhao Wang and Chang Liu and Lingting Zhu and Tongtong Wang and Shaoting Zhang and Qi Dou},
