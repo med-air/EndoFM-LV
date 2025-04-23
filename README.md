@@ -167,7 +167,7 @@ Also, we provide the pre-trained weights of 4 downstream tasks for direct downst
 
 |    Dataset    | PolypDiag | CVC-12k | KUMC | Cholec80
 |:--------------:|:----:|:----:|:-----:|:-----:|
-| Weights | [link](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155167044_link_cuhk_edu_hk/ER4Ji0TZwfRLp-hN8k2gNcEBSME3F1irUf3D7rwd2VlOTw?e=a0QfMo) | [link](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155167044_link_cuhk_edu_hk/EbDtHpZGs41FssBEE6df4RcBdVa7NNz8CprdmB6QdQaTpw?e=csht6d) | [link](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155167044_link_cuhk_edu_hk/ETWH2gMsqslIp2IRkqBFiRgB4lkIP2oTGJloPnZs2tYccg?e=kNsxgz) | [link](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155167044_link_cuhk_edu_hk/ER4Ji0TZwfRLp-hN8k2gNcEBSME3F1irUf3D7rwd2VlOTw?e=a0QfMo) 
+| Weights | [link](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155167044_link_cuhk_edu_hk/EaEbq84kKu9ClC2QvxbVb5oBVAtGgKgAeKFVNqtBP3547A) | [link](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155167044_link_cuhk_edu_hk/EbDtHpZGs41FssBEE6df4RcBdVa7NNz8CprdmB6QdQaTpw?e=csht6d) | [link](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155167044_link_cuhk_edu_hk/ETWH2gMsqslIp2IRkqBFiRgB4lkIP2oTGJloPnZs2tYccg?e=kNsxgz) | [link](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155167044_link_cuhk_edu_hk/ER4Ji0TZwfRLp-hN8k2gNcEBSME3F1irUf3D7rwd2VlOTw?e=a0QfMo) 
 
 
 #### Pre-training
