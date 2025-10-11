@@ -74,7 +74,7 @@
 
 [//]: # (Updated on 2023.06.09)
 
-
+### 🔥 You may also check our initial version of this foundation model at [Endo-FM](https://github.com/med-air/Endo-FM).
 
 This repository provides the official PyTorch implementation of the paper [**Improving Foundation Model for Endoscopy Video Analysis via Representation Learning on Long Sequences**](TBA)
 by [Zhao Wang](https://kyfafyd.wang), Chang Liu, Lingting Zhu, Tongtong Wang, [Shaoting Zhang](http://www.qingyuan.sjtu.edu.cn/a/Shaoting-Zhang.html)†, and [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou)†.
